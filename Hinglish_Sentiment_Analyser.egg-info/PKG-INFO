@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Hinglish_Sentiment_Analyser
+Version: 0.0.1
+Author: Sarthak tyagi
+Author-email: samtyagi1311@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: python-dotenv
+Requires-Dist: pymysql
+Requires-Dist: mysql-connector-python
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib

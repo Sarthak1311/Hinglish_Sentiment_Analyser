@@ -1,0 +1,7 @@
+README.md
+setup.py
+Hinglish_Sentiment_Analyser.egg-info/PKG-INFO
+Hinglish_Sentiment_Analyser.egg-info/SOURCES.txt
+Hinglish_Sentiment_Analyser.egg-info/dependency_links.txt
+Hinglish_Sentiment_Analyser.egg-info/requires.txt
+Hinglish_Sentiment_Analyser.egg-info/top_level.txt
